@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "836633112208",
+    "firebase_url": "https://testbyvideo.firebaseio.com",
+    "project_id": "testbyvideo",
+    "storage_bucket": "testbyvideo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836633112208:android:d7c348dade1d81b7",
+        "android_client_info": {
+          "package_name": "com.example.ooixinqi.testingbyvideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836633112208-as80mseb4394sh5fhtk36io13huhma0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmy1Dkg_u8rkLoVmPmR9cerbpMiQuGYYc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
